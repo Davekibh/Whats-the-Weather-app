@@ -1,4 +1,5 @@
 # Whats-the-Weather-app
+This is an Android App open it in your Android Studio.
 
 Whats the weather app tells you about the weather in your area.
 
